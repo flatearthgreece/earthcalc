@@ -1,11 +1,12 @@
-# Earth Curve Calculator
+# Υπολογιστής Καμπυλότητας Γης
 
-This app calculates how much a distant object is obscured by the earth's curvature,
+Η εφαρμογή υπολογίζει πόσο ένα μακρινό αντικείμενο θα έπρεπε να αποκρύπτεται από την καμπυλότητα της Γης,
+κάνοντας τις εξή υποθέσεις :
 and makes the following assumptions:
 
-* the earth is a convex sphere of radius 6371 kilometres
-* light travels in straight lines
+* Η Γη είναι μια σφαίρα με ακτίνα 6371 χιλιόμετρα
+* Το φως ταξιδεύει σε ευθείες γραμμές
 
-The source code and calculation method are [available on GitHub.com][source-code]
+Αρχικός κώδικας και μέθοδος υπολογισμού εδώ [available on GitHub.com][source-code]
 
 [source-code]: https://github.com/dizzib/earthcalc
